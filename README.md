@@ -1,4 +1,4 @@
-# This is a collection of some things worked during CSCE 221 Data Structures and Algorithms.
+# This is a collection of some things worked during CSCE 221 Data Structures and Algorithms, please don't copy.
 
 # CSCE 221 Test 2 Question 1
 ## Video
